@@ -110,27 +110,5 @@ Historical Weak Topics:
 }
 ```
 
----
 
-## Screenshots
-
-### Accuracy by Topic
-![Accuracy by Topic](screenshots/accuracy_by_topic.png)
-
-### Score Trends Over Time
-![Score Trends Over Time](screenshots/score_trends.png)
-
-### Recommendations Summary
-![Recommendations Summary](screenshots/recommendations_summary.png)
-
----
-
-## Notes
-- Ensure the API endpoints provided are accessible and return data in the expected JSON format.
-- Use the provided sample code to test functionality before running with live data.
-
----
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
